@@ -22,12 +22,28 @@
     <ClCompile Include="algorithm\find\search.cpp" />
     <ClCompile Include="algorithm\sort\Sort.cpp" />
     <ClCompile Include="algorithm\sort\SortHelper.cpp" />
+    <ClCompile Include="DesignPatterns\AbstractFactory.cpp" />
+    <ClCompile Include="DesignPatterns\Bridge.cpp" />
+    <ClCompile Include="DesignPatterns\Build.cpp" />
+    <ClCompile Include="DesignPatterns\Factory.cpp" />
+    <ClCompile Include="DesignPatterns\Observer.cpp" />
+    <ClCompile Include="DesignPatterns\Prototype.cpp" />
+    <ClCompile Include="DesignPatterns\Proxy.cpp" />
+    <ClCompile Include="DesignPatterns\Singleton.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="algorithm\find\search.h" />
     <ClInclude Include="algorithm\sort\Sort.h" />
     <ClInclude Include="algorithm\sort\SortHelper.h" />
+    <ClInclude Include="DesignPatterns\AbstractFactory.h" />
+    <ClInclude Include="DesignPatterns\Bridge.h" />
+    <ClInclude Include="DesignPatterns\Build.h" />
+    <ClInclude Include="DesignPatterns\Factory.h" />
+    <ClInclude Include="DesignPatterns\Observer.h" />
+    <ClInclude Include="DesignPatterns\Prototype.h" />
+    <ClInclude Include="DesignPatterns\Proxy.h" />
+    <ClInclude Include="DesignPatterns\Singleton.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>

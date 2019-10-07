@@ -17,6 +17,9 @@
     <Filter Include="algorithm\search">
       <UniqueIdentifier>{23a4cec9-2a41-404e-8de4-c2d238a14b51}</UniqueIdentifier>
     </Filter>
+    <Filter Include="DesignPatterns">
+      <UniqueIdentifier>{1cda2dea-240e-4363-aa41-5c0bd9d1ee1b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
@@ -29,6 +32,30 @@
     <ClCompile Include="algorithm\find\search.cpp">
       <Filter>algorithm\search</Filter>
     </ClCompile>
+    <ClCompile Include="DesignPatterns\AbstractFactory.cpp">
+      <Filter>DesignPatterns</Filter>
+    </ClCompile>
+    <ClCompile Include="DesignPatterns\Factory.cpp">
+      <Filter>DesignPatterns</Filter>
+    </ClCompile>
+    <ClCompile Include="DesignPatterns\Singleton.cpp">
+      <Filter>DesignPatterns</Filter>
+    </ClCompile>
+    <ClCompile Include="DesignPatterns\Build.cpp">
+      <Filter>DesignPatterns</Filter>
+    </ClCompile>
+    <ClCompile Include="DesignPatterns\Prototype.cpp">
+      <Filter>DesignPatterns</Filter>
+    </ClCompile>
+    <ClCompile Include="DesignPatterns\Bridge.cpp">
+      <Filter>DesignPatterns</Filter>
+    </ClCompile>
+    <ClCompile Include="DesignPatterns\Proxy.cpp">
+      <Filter>DesignPatterns</Filter>
+    </ClCompile>
+    <ClCompile Include="DesignPatterns\Observer.cpp">
+      <Filter>DesignPatterns</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="algorithm\sort\Sort.h">
@@ -39,6 +66,30 @@
     </ClInclude>
     <ClInclude Include="algorithm\find\search.h">
       <Filter>algorithm\search</Filter>
+    </ClInclude>
+    <ClInclude Include="DesignPatterns\AbstractFactory.h">
+      <Filter>DesignPatterns</Filter>
+    </ClInclude>
+    <ClInclude Include="DesignPatterns\Factory.h">
+      <Filter>DesignPatterns</Filter>
+    </ClInclude>
+    <ClInclude Include="DesignPatterns\Singleton.h">
+      <Filter>DesignPatterns</Filter>
+    </ClInclude>
+    <ClInclude Include="DesignPatterns\Build.h">
+      <Filter>DesignPatterns</Filter>
+    </ClInclude>
+    <ClInclude Include="DesignPatterns\Prototype.h">
+      <Filter>DesignPatterns</Filter>
+    </ClInclude>
+    <ClInclude Include="DesignPatterns\Bridge.h">
+      <Filter>DesignPatterns</Filter>
+    </ClInclude>
+    <ClInclude Include="DesignPatterns\Proxy.h">
+      <Filter>DesignPatterns</Filter>
+    </ClInclude>
+    <ClInclude Include="DesignPatterns\Observer.h">
+      <Filter>DesignPatterns</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
