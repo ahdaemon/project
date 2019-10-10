@@ -20,6 +20,9 @@
     <Filter Include="DesignPatterns">
       <UniqueIdentifier>{1cda2dea-240e-4363-aa41-5c0bd9d1ee1b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="NewCoder">
+      <UniqueIdentifier>{6c3cec16-10d9-4c0b-95bc-c98c45673bce}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
@@ -56,6 +59,9 @@
     <ClCompile Include="DesignPatterns\Observer.cpp">
       <Filter>DesignPatterns</Filter>
     </ClCompile>
+    <ClCompile Include="NewCoder\NewCoder.cpp">
+      <Filter>NewCoder</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="algorithm\sort\Sort.h">
@@ -90,6 +96,9 @@
     </ClInclude>
     <ClInclude Include="DesignPatterns\Observer.h">
       <Filter>DesignPatterns</Filter>
+    </ClInclude>
+    <ClInclude Include="NewCoder\NewCoder.h">
+      <Filter>NewCoder</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
